@@ -8,7 +8,8 @@ Message me on twitter if you need help @tie1r
 To use:
 1. Extract the zip file
 2. Drag checkm8.app in /Applications
-3. Open and enjoy!
+3. run if you get "This app is damaged error. "xattr -cr /Applications/checkm8.app"
+4. Open and enjoy!
 
 
 Have Fun =P
